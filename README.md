@@ -1,0 +1,6 @@
+- Ngô Thùy Linh _ 20233494
+- des và aes là file thuật toán
+- test là file chạy thử
+- `des.py` và `aes.py` thực hiện mã hóa và giải mã một khối dữ liệu
+- `des_tables.py` và `aes_tables.py` chứa các bảng dùng trong hai thuật toán
+- `test_des.py` và `test_aes.py` dùng các bộ dữ liệu mẫu để kiểm tra kết quả
